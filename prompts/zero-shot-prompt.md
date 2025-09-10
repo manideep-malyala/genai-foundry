@@ -20,3 +20,10 @@ expressions for each alternative.
 
 https://www.arxiv.org/pdf/2507.21790
 ---
+
+Identify the decontextualized, stand-alone, and verifiable central claim in
+the given post: ${post}
+
+https://arxiv.org/pdf/2509.06883
+
+---
